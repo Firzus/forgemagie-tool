@@ -1,0 +1,716 @@
+[
+  {
+    "id": 44,
+    "name": "Initiative",
+    "weight": 0.1,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 60,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 11,
+    "name": "Vitalié",
+    "weight": 0.2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 155,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "Pods",
+    "weight": 0.25,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 187,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 15,
+    "name": "Intelligence",
+    "weight": 1,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 63,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 10,
+    "name": "Force",
+    "weight": 1,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 71,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 13,
+    "name": "Chance",
+    "weight": 1,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 28,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 14,
+    "name": "Agilité",
+    "weight": 1,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 57,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 69,
+    "name": "Puissance Piège",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 151,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 25,
+    "name": "Puissance",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 96,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 54,
+    "name": "Résistance Fixe Terre",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 272,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 56,
+    "name": "Résistance Fixe Eau",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 61,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 58,
+    "name": "Résistance Fixe Neutre",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 82,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 55,
+    "name": "Résistance Fixe Feu",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 57,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 57,
+    "name": "Résistance Fixe Air",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 119,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 85,
+    "name": "Résistance Poussé",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 263,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 87,
+    "name": "Résistance Critique",
+    "weight": 2,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 482,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 12,
+    "name": "Sagesse",
+    "weight": 3,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 57,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 48,
+    "name": "Prospection",
+    "weight": 3,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 149,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 79,
+    "name": "Tacle",
+    "weight": 4,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 942,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 78,
+    "name": "Fuite",
+    "weight": 4,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 462,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 0,
+    "name": "Chasse",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 736,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 70,
+    "name": "Dommage piège",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 165,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 84,
+    "name": "Dommage de poussé",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 104,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 86,
+    "name": "Dommage Critique",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1124,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 88,
+    "name": "Dommage Terre",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1020,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 90,
+    "name": "Dommage Eau",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 992,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 92,
+    "name": "Dommage Neutre",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1087,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 89,
+    "name": "Dommage Feu",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1011,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 91,
+    "name": "Dommage Air",
+    "weight": 5,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1099,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 33,
+    "name": "Résistance % Terre",
+    "weight": 6,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1096,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 35,
+    "name": "Résistance % Eau",
+    "weight": 6,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1224,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 37,
+    "name": "Résistance % Neutre",
+    "weight": 6,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 995,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 34,
+    "name": "Résistance % Feu",
+    "weight": 6,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1228,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 36,
+    "name": "Résistance % Air",
+    "weight": 6,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1239,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 83,
+    "name": "Retrait Pm",
+    "weight": 7,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 846,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 82,
+    "name": "Retrait Pa",
+    "weight": 7,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 463,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 28,
+    "name": "Esquive Pm",
+    "weight": 7,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1268,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 27,
+    "name": "Esquive Pa",
+    "weight": 7,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 613,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 18,
+    "name": "% Critique",
+    "weight": 10,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 1875,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 49,
+    "name": "Soin",
+    "weight": 10,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 375,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 122,
+    "name": "Dommages d'armes",
+    "weight": 15,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 2419,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 120,
+    "name": "Dommages distance",
+    "weight": 15,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 20679,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 125,
+    "name": "Dommages mêlée",
+    "weight": 15,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 3997,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 123,
+    "name": "Dommages aux sorts",
+    "weight": 15,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 18716,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 121,
+    "name": "Résistance distance",
+    "weight": 15,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 2096,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 124,
+    "name": "Résistance mêlée",
+    "weight": 15,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 768,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 16,
+    "name": "Dommage",
+    "weight": 20,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 824,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 26,
+    "name": "Invocation",
+    "weight": 30,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 4074,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 19,
+    "name": "Portée",
+    "weight": 51,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 6981,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 23,
+    "name": "Pm",
+    "weight": 90,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 21418,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  },
+  {
+    "id": 1,
+    "name": "Pa",
+    "weight": 100,
+    "price": {
+      "imagiro": null,
+      "draconiros": null,
+      "talKasha": 38675,
+      "tylezia": null,
+      "hellMina": null,
+      "orukam": null,
+      "ombre": null
+    }
+  }
+]
